@@ -1,0 +1,2 @@
+Run Program with:
+python3 alien_invasion.py
